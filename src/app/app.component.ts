@@ -13,7 +13,6 @@ export class AppComponent {
   
   public num1: number;
   public num2: number;
-  // public num3: number = 0;
   public result: number;
 
   constructor() {
